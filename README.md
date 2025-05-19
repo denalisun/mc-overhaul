@@ -1,2 +1,49 @@
-# mc-overhaul
-Overhaul Datapack for Minecraft, inspired by the Golden Days
+- Item Ideas
+    - Tools
+        - Shortsword
+            - Slightly more damage with less reach
+        - Battleaxe
+            - More damage, slower swing speed
+        - Spear
+            - Throwable pre-game Trident
+            - Only available in Wood and Stone
+    - Weapons
+        - Compound Bow
+            - Metal Bow with more durability and more damage
+        - Musket
+            - Rifle that shoots Musket Balls
+                - Musket Balls crafted with 3 iron nuggets and 1 gunpowder
+            - Crafted like ![this](https://i.imgur.com/z1qJQ.png)
+            - Takes 1 at a time
+            - 5 second cooldown
+            - 14 block range
+        - Blunderbuss
+            - Shotgun-style firearm
+                - Uses Musket Balls (4x)
+            - Crafted like Musket, but change Iron to Steel and 
+            - 7 second cooldown
+            - 7 block range
+        - Sculk "Wonder Weapon" (Not sure yet)
+    - Utilities
+        - Mining Helmet
+            - Gives Night Vision when underground
+        - Netherite/Alexandrite/Molten Drill
+            - Mines 3x3 hole
+            - Speed = Iron
+            - Durability = Iron
+    - Minerals
+        - Alexandrite
+            - Made like Netherite Ingots with Quarts and Amethyst Shards
+            - Used for tools
+        - Molten Netherite
+            - Crafted by melting down Netherite Ingots with a Lava Bucket
+                - x3
+            - Weaker than Netherite, stronger than Diamond
+            - Armor
+                - Permanent Fire Resistance
+            - Tools
+                - Automatically smelts ores
+                    - Makes it incompatible with Fortune
+        - Steel
+            - Made like Netherite Ingots with Iron and Gunpowder
+            - Used for something ???? LOL
