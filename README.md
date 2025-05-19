@@ -4,10 +4,14 @@
             - Slightly more damage with less reach
         - Battleaxe
             - More damage, slower swing speed
+        - Netherite/Alexandrite/Molten Drill
+            - Mines 3x3 hole
+            - Speed = Iron
+            - Durability = Iron
+    - Weapons
         - Spear
             - Throwable pre-game Trident
             - Only available in Wood and Stone
-    - Weapons
         - Compound Bow
             - Metal Bow with more durability and more damage
         - Musket
@@ -17,6 +21,7 @@
             - Takes 1 at a time
             - 5 second cooldown
             - 14 block range
+            - Can attach a scope by dropping a Spyglass and a Musket
         - Blunderbuss
             - Shotgun-style firearm
                 - Uses Musket Balls (4x)
@@ -27,10 +32,15 @@
     - Utilities
         - Mining Helmet
             - Gives Night Vision when underground
-        - Netherite/Alexandrite/Molten Drill
-            - Mines 3x3 hole
-            - Speed = Iron
-            - Durability = Iron
+        - Flippers
+            - Improves default swimming speed, slows down land speed
+        - Magic Ideas
+            - Magic Mirror
+                - From Terraria
+                - Classic of these datapacks with my friend group
+            - Wand
+                - Imbued with Potion effects
+                - "Awkward Wand" is crafted first
     - Minerals
         - Alexandrite
             - Made like Netherite Ingots with Quarts and Amethyst Shards

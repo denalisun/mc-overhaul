@@ -1,0 +1,2 @@
+# This is the entire item in a single give command
+give @s recovery_compass[consumable={consume_seconds:0.2,animation:"spyglass",sound: "entity.blaze.hurt", has_consume_particles: false}, use_cooldown={seconds: 12}, custom_data={"musket": true}, item_name={text: "Musket", italic: false}, item_model="sunsoverhaul:musket"]

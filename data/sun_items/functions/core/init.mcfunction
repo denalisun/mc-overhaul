@@ -1,0 +1,1 @@
+scoreboard objectives add used.recovery_compass used:recovery_compass
