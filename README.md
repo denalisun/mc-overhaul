@@ -54,6 +54,3 @@
             - Tools
                 - Automatically smelts ores
                     - Makes it incompatible with Fortune
-        - Steel
-            - Made like Netherite Ingots with Iron and Gunpowder
-            - Used for something ???? LOL
